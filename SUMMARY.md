@@ -1,6 +1,7 @@
 # Table of contents
 
 * [前言](README.md)
+* [这振奋人心的精神](zhe-zhen-fen-ren-xin-de-jing-shen.md)
 * [飞鸟集（1-20）](fei-niao-ji-120.md)
 * [飞鸟集（21-40）](fei-niao-ji-2140.md)
 * [飞鸟集（41-60）](fei-niao-ji-4160.md)
